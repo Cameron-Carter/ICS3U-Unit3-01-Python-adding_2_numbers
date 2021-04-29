@@ -4,8 +4,6 @@
 # Created on April 2021
 # This program adds two inputted numbers
 
-import math
-
 
 def main():
     # This function adds two numbers
